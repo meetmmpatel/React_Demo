@@ -1,0 +1,13 @@
+
+Types of Component...
+
+1. Class (State full)
+        - we have state within the class file 
+        - Args are subject to change...
+
+
+2. function (Stateless)
+        - only args are allowed to pass ...
+        - Args are immutable ...
+
+ 
